@@ -1,4 +1,4 @@
-### 👨🏻‍💻 A little bit about me
+## 👨🏻‍💻 A little bit about me
 👋 Hello, I’m Jean Carlo Schmitz, Full Stack Developer, but for personal preference, I prefer to work more focused on the backend.
 
 <div align="center">
