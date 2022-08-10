@@ -1,14 +1,18 @@
 ### 👨🏻‍💻 A little bit about me
 👋 Hello, I’m Jean Carlo Schmitz, Full Stack Developer, but for personal preference, I prefer to work more focused on the backend.
 
-Currently learning: 
-<img heigh="30" width="30" src="https://user-images.githubusercontent.com/11407906/183887608-7aa2c09f-b54c-40f2-9a15-6499056de3f8.png"></img> Java,
-<img heigh="30" width="30" src="https://user-images.githubusercontent.com/11407906/183887601-b0e2166c-7123-40fa-9cb0-d4ee02e2f0a3.png"></img> Angular, 
-<img heigh="30" width="30" src="https://user-images.githubusercontent.com/11407906/183887606-d9e3d997-61d4-4c1e-b776-63494fdfd80d.png"></img> TypeScript.
-
 <div align="center">
   <a href="https://github.com/strolker">
-  <img align="center" heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strolker&layout=compact&theme=tokyonight&langs_count=16"></img>
+    <img align="center" heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strolker&layout=compact&theme=tokyonight&langs_count=16"/>
+  </a>
+</div>
+
+<div>
+  <br>
+  Currently learning: 
+  <img heigh="30" width="30" src="https://user-images.githubusercontent.com/11407906/183887608-7aa2c09f-b54c-40f2-9a15-6499056de3f8.png"></img> Java,
+  <img heigh="30" width="30" src="https://user-images.githubusercontent.com/11407906/183887601-b0e2166c-7123-40fa-9cb0-d4ee02e2f0a3.png"></img> Angular, 
+  <img heigh="30" width="30" src="https://user-images.githubusercontent.com/11407906/183887606-d9e3d997-61d4-4c1e-b776-63494fdfd80d.png"></img> TypeScript.
 </div>
 
 ##
@@ -24,7 +28,6 @@ Currently learning:
   <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
   <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 </div>
-
 
 <!---
 DEV icons:
