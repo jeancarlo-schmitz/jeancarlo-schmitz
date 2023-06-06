@@ -1,5 +1,5 @@
-## 👨🏻‍💻 A little bit about me
-👋 Hello, I’m Jean Carlo Schmitz, Full Stack Developer, but for personal preference, I prefer to work more focused on the backend.
+## 👨🏻‍💻 Um pouco sobre mim
+👋 Olá, Eu me chamo Jean Carlo Schmitz, e sou um Full Stack Developer, mas como preferencia pessoa, prefiro trabalhar mais com o backend.
 
 <div align="center">
   <a href="https://github.com/strolker">
